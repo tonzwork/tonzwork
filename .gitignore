@@ -1,4 +1,6 @@
-notes
-scripts
-source
-node_modules
+# Ignore everything
+*
+
+# Except...
+!.gitignore
+README.md
