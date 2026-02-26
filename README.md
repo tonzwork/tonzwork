@@ -1,3 +1,2 @@
 # Tony Zhang
-## DevOps Engineer
-Versent Modern Run
+### Principal DevOps Engineer @ Versent
